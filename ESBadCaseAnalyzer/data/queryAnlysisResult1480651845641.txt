@@ -1,0 +1,121 @@
+NotMatchRate: 01.0000	QueryCondition: ﻿装饰 跟单	Resume Title Desc: [文员]	Relevance: 0.0	Resume ID：95285985
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: [外贸]	Relevance: 0.0	Resume ID：95137462
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: [文员]	Relevance: 0.0	Resume ID：66660934
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: [贸易]	Relevance: 0.0	Resume ID：93694020
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: [高级, 业务]	Relevance: 0.0	Resume ID：16550566
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: [会展, 业务]	Relevance: 0.0	Resume ID：85822139
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: [采购]	Relevance: 0.0	Resume ID：45136704
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: [物流, 主管, 仓管]	Relevance: 0.0	Resume ID：11687545
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: [内勤, 主管, 客服]	Relevance: 0.0	Resume ID：93367758
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: [美甲师]	Relevance: 0.0	Resume ID：60111368
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: [文员]	Relevance: 0.0	Resume ID：44347300
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: [贸易]	Relevance: 0.0	Resume ID：89912804
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: [文员]	Relevance: 0.0	Resume ID：55561792
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: [业务]	Relevance: 0.0	Resume ID：55157883
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: [单证, 外贸]	Relevance: 0.0	Resume ID：13231704
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: [材料, 单员]	Relevance: 0.0	Resume ID：13634243
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: [单员, 外贸]	Relevance: 0.0	Resume ID：95846681
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: [qc]	Relevance: 0.0	Resume ID：95904910
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: [行政, 单及, 业务]	Relevance: 0.0	Resume ID：84562467
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: [绘图]	Relevance: 0.0	Resume ID：89286960
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: [主管, 材料]	Relevance: 0.0	Resume ID：96824118
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: [销售]	Relevance: 0.0	Resume ID：96564828
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: [统计员]	Relevance: 0.0	Resume ID：24698201
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: [主管, 促销, 全国, 推广]	Relevance: 0.0	Resume ID：29189672
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: [业务]	Relevance: 0.0	Resume ID：16169766
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: [主管, 贸易, 经理, 外贸]	Relevance: 0.0	Resume ID：32022051
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: [不到, 输入]	Relevance: 0.0	Resume ID：93940388
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: [采购员]	Relevance: 0.0	Resume ID：27221982
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: [业务, 经理]	Relevance: 0.0	Resume ID：35099071
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: [会计, 会计师]	Relevance: 0.0	Resume ID：13466586
+NotMatchRate: 01.0000	QueryCondition: HR 上海 4年 本科	Resume Title Desc: [人事, 主管]	Relevance: 0.0	Resume ID：96073170
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: [人事, 专员]	Relevance: 0.0	Resume ID：96814838
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: [专员, 人事]	Relevance: 0.0	Resume ID：94322190
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: [人事, 主管]	Relevance: 0.0	Resume ID：90326359
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: [主管, 人事]	Relevance: 0.0	Resume ID：75874835
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: [amp, 翻译, 人事经理]	Relevance: 0.0	Resume ID：96696174
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: [人事, 设计, 行政]	Relevance: 0.0	Resume ID：92924459
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: [经理, 主管, 招聘]	Relevance: 0.0	Resume ID：27765315
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: [人事, 专员, 主管]	Relevance: 0.0	Resume ID：43134836
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: [人事经理, 行政]	Relevance: 0.0	Resume ID：54730951
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: [人事经理]	Relevance: 0.0	Resume ID：7838515
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: [专员, 人事]	Relevance: 0.0	Resume ID：20338883
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: [人力资源, 主管]	Relevance: 0.0	Resume ID：19262400
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: [专员, 人力资源]	Relevance: 0.0	Resume ID：9116892
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: [人事, 专员]	Relevance: 0.0	Resume ID：27801294
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: [人事, 主管]	Relevance: 0.0	Resume ID：23899730
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: [人事, 专员]	Relevance: 0.0	Resume ID：22405685
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: [人力资源, 主管]	Relevance: 0.0	Resume ID：14553629
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: [副主任, 人力资源]	Relevance: 0.0	Resume ID：28679993
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: [主管, 人力资源]	Relevance: 0.0	Resume ID：31438660
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: [人事, 培训, 兼任, 专员]	Relevance: 0.0	Resume ID：43604929
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: [专员, 后期, 代理人, 事主, 人事]	Relevance: 0.0	Resume ID：20033731
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: [人事, 专员]	Relevance: 0.0	Resume ID：93854171
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: [人事, 主管]	Relevance: 0.0	Resume ID：58912002
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: [人事, 主管]	Relevance: 0.0	Resume ID：95829144
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: [主管, 人力资源]	Relevance: 0.0	Resume ID：30613370
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: [人事经理]	Relevance: 0.0	Resume ID：95771452
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: [人事, 经理, 行政]	Relevance: 0.0	Resume ID：91658368
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: [专员, 人事]	Relevance: 0.0	Resume ID：13983531
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: [人事, 主管]	Relevance: 0.0	Resume ID：14742663
+NotMatchRate: 01.0000	QueryCondition: 利得 招聘 北京	Resume Title Desc: null	Relevance: 0.0	Resume ID：未找到相关简历
+NotMatchRate: 00.9667	QueryCondition: 清算 证券 北京	Resume Title Desc: [项目管理, 证券, 投资]	Relevance: 0.083333336	Resume ID：4880180
+	QueryCondition: 清算 证券 北京	Resume Title Desc: [结算, 出纳]	Relevance: 0.0	Resume ID：10399725
+	QueryCondition: 清算 证券 北京	Resume Title Desc: [结算]	Relevance: 0.0	Resume ID：94847973
+	QueryCondition: 清算 证券 北京	Resume Title Desc: [结算, 翻译, 工程造价]	Relevance: 0.0	Resume ID：18504223
+	QueryCondition: 清算 证券 北京	Resume Title Desc: [工程造价, 结算]	Relevance: 0.0	Resume ID：30667139
+	QueryCondition: 清算 证券 北京	Resume Title Desc: [结算, 工程造价]	Relevance: 0.0	Resume ID：96640262
+	QueryCondition: 清算 证券 北京	Resume Title Desc: [工程造价, 结算]	Relevance: 0.0	Resume ID：84564113
+	QueryCondition: 清算 证券 北京	Resume Title Desc: [工程造价, 结算]	Relevance: 0.0	Resume ID：51813455
+	QueryCondition: 清算 证券 北京	Resume Title Desc: [主管, 结算]	Relevance: 0.0	Resume ID：89146507
+	QueryCondition: 清算 证券 北京	Resume Title Desc: [结算, 经理]	Relevance: 0.0	Resume ID：18832584
+	QueryCondition: 清算 证券 北京	Resume Title Desc: [业务, 登记, 结算]	Relevance: 0.0	Resume ID：47854849
+	QueryCondition: 清算 证券 北京	Resume Title Desc: [会计, 运营, 管理部, 结算, 中心]	Relevance: 0.0	Resume ID：45292118
+	QueryCondition: 清算 证券 北京	Resume Title Desc: [资金, 结算]	Relevance: 0.0	Resume ID：25996885
+	QueryCondition: 清算 证券 北京	Resume Title Desc: [结算, 会计]	Relevance: 0.0	Resume ID：30748822
+	QueryCondition: 清算 证券 北京	Resume Title Desc: [合约, 主管, 结算]	Relevance: 0.0	Resume ID：17298877
+	QueryCondition: 清算 证券 北京	Resume Title Desc: [主管, 结算]	Relevance: 0.0	Resume ID：11237296
+	QueryCondition: 清算 证券 北京	Resume Title Desc: [工程造价, 结算]	Relevance: 0.0	Resume ID：96837405
+	QueryCondition: 清算 证券 北京	Resume Title Desc: [结算, 工程造价]	Relevance: 0.0	Resume ID：92172340
+	QueryCondition: 清算 证券 北京	Resume Title Desc: [主管, 结算, 数据]	Relevance: 0.0	Resume ID：23413656
+	QueryCondition: 清算 证券 北京	Resume Title Desc: [结算, 收发, 材料]	Relevance: 0.0	Resume ID：96478729
+	QueryCondition: 清算 证券 北京	Resume Title Desc: [工程造价, 结算]	Relevance: 0.0	Resume ID：15908953
+	QueryCondition: 清算 证券 北京	Resume Title Desc: [风险管理]	Relevance: 0.0	Resume ID：16363312
+	QueryCondition: 清算 证券 北京	Resume Title Desc: [工程造价, 结算]	Relevance: 0.0	Resume ID：19199097
+	QueryCondition: 清算 证券 北京	Resume Title Desc: [经理, 项目, 主管, 项目经理]	Relevance: 0.0	Resume ID：6033125
+	QueryCondition: 清算 证券 北京	Resume Title Desc: [结算]	Relevance: 0.0	Resume ID：49139267
+	QueryCondition: 清算 证券 北京	Resume Title Desc: [经理, 资金, 计划, 按揭]	Relevance: 0.0	Resume ID：16742859
+	QueryCondition: 清算 证券 北京	Resume Title Desc: [员工]	Relevance: 0.0	Resume ID：55681442
+	QueryCondition: 清算 证券 北京	Resume Title Desc: [经理, 生产部]	Relevance: 0.0	Resume ID：20178334
+	QueryCondition: 清算 证券 北京	Resume Title Desc: [工程造价, 结算]	Relevance: 0.0	Resume ID：33228712
+	QueryCondition: 清算 证券 北京	Resume Title Desc: [工程造价, 结算]	Relevance: 0.0	Resume ID：18292216
+NotMatchRate: 00.9667	QueryCondition: 长沙 弱电	Resume Title Desc: [电工, 程师, 强弱]	Relevance: 0.06666666	Resume ID：8531819
+	QueryCondition: 长沙 弱电	Resume Title Desc: [经理, 项目]	Relevance: 0.0	Resume ID：96818616
+	QueryCondition: 长沙 弱电	Resume Title Desc: [工程师, 项目, 经理, 电气, 项目经理]	Relevance: 0.0	Resume ID：27677270
+	QueryCondition: 长沙 弱电	Resume Title Desc: [工程师, 电气]	Relevance: 0.0	Resume ID：93327258
+	QueryCondition: 长沙 弱电	Resume Title Desc: [电气, 工程设计, 工程师]	Relevance: 0.0	Resume ID：93072078
+	QueryCondition: 长沙 弱电	Resume Title Desc: [工程师, 主任, 电气, 机电, 所长]	Relevance: 0.0	Resume ID：96466561
+	QueryCondition: 长沙 弱电	Resume Title Desc: [电气, 主管]	Relevance: 0.0	Resume ID：92450172
+	QueryCondition: 长沙 弱电	Resume Title Desc: [项目经理, 经理, 项目]	Relevance: 0.0	Resume ID：36539406
+	QueryCondition: 长沙 弱电	Resume Title Desc: [工艺工程师, 工程师, 工艺]	Relevance: 0.0	Resume ID：91064890
+	QueryCondition: 长沙 弱电	Resume Title Desc: [工程师, 水电]	Relevance: 0.0	Resume ID：96708929
+	QueryCondition: 长沙 弱电	Resume Title Desc: [水电, 施工员]	Relevance: 0.0	Resume ID：57307238
+	QueryCondition: 长沙 弱电	Resume Title Desc: [技术员, 电气, 工程师]	Relevance: 0.0	Resume ID：7072052
+	QueryCondition: 长沙 弱电	Resume Title Desc: [电气, 工程师]	Relevance: 0.0	Resume ID：45599224
+	QueryCondition: 长沙 弱电	Resume Title Desc: [维护, 工程师, 主管, 电气]	Relevance: 0.0	Resume ID：41613399
+	QueryCondition: 长沙 弱电	Resume Title Desc: [电气, 工程师]	Relevance: 0.0	Resume ID：90336058
+	QueryCondition: 长沙 弱电	Resume Title Desc: [电气, 电气设计, 设计, 工程师]	Relevance: 0.0	Resume ID：96831186
+	QueryCondition: 长沙 弱电	Resume Title Desc: [电气, 工程师]	Relevance: 0.0	Resume ID：37623524
+	QueryCondition: 长沙 弱电	Resume Title Desc: [技术员, 电气, 工程师]	Relevance: 0.0	Resume ID：89510251
+	QueryCondition: 长沙 弱电	Resume Title Desc: [项目, 经理]	Relevance: 0.0	Resume ID：84934244
+	QueryCondition: 长沙 弱电	Resume Title Desc: [电气设计, 电气, 工程师, 设计]	Relevance: 0.0	Resume ID：96831705
+	QueryCondition: 长沙 弱电	Resume Title Desc: [电气, 工程师]	Relevance: 0.0	Resume ID：58875176
+	QueryCondition: 长沙 弱电	Resume Title Desc: [工程师, 电气]	Relevance: 0.0	Resume ID：39458042
+	QueryCondition: 长沙 弱电	Resume Title Desc: [工程师, 电气]	Relevance: 0.0	Resume ID：94990366
+	QueryCondition: 长沙 弱电	Resume Title Desc: [工程部, 动力]	Relevance: 0.0	Resume ID：61865640
+	QueryCondition: 长沙 弱电	Resume Title Desc: [电气, 工程师, 电气设计, 设计]	Relevance: 0.0	Resume ID：84819159
+	QueryCondition: 长沙 弱电	Resume Title Desc: [弱电工程]	Relevance: 0.0	Resume ID：58415741
+	QueryCondition: 长沙 弱电	Resume Title Desc: [弱电工程]	Relevance: 0.0	Resume ID：83176844
+	QueryCondition: 长沙 弱电	Resume Title Desc: [设备, 工程师, 电气]	Relevance: 0.0	Resume ID：87913928
+	QueryCondition: 长沙 弱电	Resume Title Desc: [电气, 工程师]	Relevance: 0.0	Resume ID：94385018
+	QueryCondition: 长沙 弱电	Resume Title Desc: [仪表, 设计, 自控]	Relevance: 0.0	Resume ID：19978561

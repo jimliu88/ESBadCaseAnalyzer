@@ -1,0 +1,121 @@
+NotMatchRate: 01.0000	QueryCondition: ﻿装饰 跟单	Resume Title Desc: null	Relevance: 0.0	Resume ID：95285985
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: null	Relevance: 0.0	Resume ID：95137462
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: null	Relevance: 0.0	Resume ID：93694020
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: null	Relevance: 0.0	Resume ID：66660934
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: null	Relevance: 0.0	Resume ID：16550566
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: null	Relevance: 0.0	Resume ID：85822139
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: null	Relevance: 0.0	Resume ID：45136704
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: null	Relevance: 0.0	Resume ID：11687545
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: null	Relevance: 0.0	Resume ID：93367758
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: null	Relevance: 0.0	Resume ID：60111368
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: null	Relevance: 0.0	Resume ID：55157883
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: null	Relevance: 0.0	Resume ID：44347300
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: null	Relevance: 0.0	Resume ID：89912804
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: null	Relevance: 0.0	Resume ID：55561792
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: null	Relevance: 0.0	Resume ID：13231704
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: null	Relevance: 0.0	Resume ID：13634243
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: null	Relevance: 0.0	Resume ID：95846681
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: null	Relevance: 0.0	Resume ID：95904910
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: null	Relevance: 0.0	Resume ID：84562467
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: null	Relevance: 0.0	Resume ID：89286960
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: null	Relevance: 0.0	Resume ID：96824118
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: null	Relevance: 0.0	Resume ID：24698201
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: null	Relevance: 0.0	Resume ID：96564828
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: null	Relevance: 0.0	Resume ID：29189672
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: null	Relevance: 0.0	Resume ID：16169766
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: null	Relevance: 0.0	Resume ID：32022051
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: null	Relevance: 0.0	Resume ID：93940388
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: null	Relevance: 0.0	Resume ID：13466586
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: null	Relevance: 0.0	Resume ID：27221982
+	QueryCondition: ﻿装饰 跟单	Resume Title Desc: null	Relevance: 0.0	Resume ID：35099071
+NotMatchRate: 01.0000	QueryCondition: HR 上海 4年 本科	Resume Title Desc: null	Relevance: 0.0	Resume ID：96073170
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: null	Relevance: 0.0	Resume ID：96814838
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: null	Relevance: 0.0	Resume ID：94322190
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: null	Relevance: 0.0	Resume ID：90326359
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: null	Relevance: 0.0	Resume ID：75874835
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: null	Relevance: 0.0	Resume ID：96696174
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: null	Relevance: 0.0	Resume ID：92924459
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: null	Relevance: 0.0	Resume ID：27765315
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: null	Relevance: 0.0	Resume ID：54730951
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: null	Relevance: 0.0	Resume ID：7838515
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: null	Relevance: 0.0	Resume ID：20338883
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: null	Relevance: 0.0	Resume ID：43134836
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: null	Relevance: 0.0	Resume ID：23899730
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: null	Relevance: 0.0	Resume ID：19262400
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: null	Relevance: 0.0	Resume ID：9116892
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: null	Relevance: 0.0	Resume ID：27801294
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: null	Relevance: 0.0	Resume ID：43604929
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: null	Relevance: 0.0	Resume ID：22405685
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: null	Relevance: 0.0	Resume ID：14553629
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: null	Relevance: 0.0	Resume ID：28679993
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: null	Relevance: 0.0	Resume ID：31438660
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: null	Relevance: 0.0	Resume ID：93854171
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: null	Relevance: 0.0	Resume ID：30613370
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: null	Relevance: 0.0	Resume ID：95829144
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: null	Relevance: 0.0	Resume ID：91658368
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: null	Relevance: 0.0	Resume ID：27354632
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: null	Relevance: 0.0	Resume ID：20033731
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: null	Relevance: 0.0	Resume ID：79531680
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: null	Relevance: 0.0	Resume ID：19532402
+	QueryCondition: HR 上海 4年 本科	Resume Title Desc: null	Relevance: 0.0	Resume ID：58912002
+NotMatchRate: 01.0000	QueryCondition: 利得 招聘 北京	Resume Title Desc: null	Relevance: 0.0	Resume ID：未找到相关简历
+NotMatchRate: 01.0000	QueryCondition: 清算 证券 北京	Resume Title Desc: null	Relevance: 0.0	Resume ID：10399725
+	QueryCondition: 清算 证券 北京	Resume Title Desc: null	Relevance: 0.0	Resume ID：94847973
+	QueryCondition: 清算 证券 北京	Resume Title Desc: null	Relevance: 0.0	Resume ID：18504223
+	QueryCondition: 清算 证券 北京	Resume Title Desc: null	Relevance: 0.0	Resume ID：30667139
+	QueryCondition: 清算 证券 北京	Resume Title Desc: null	Relevance: 0.0	Resume ID：96640262
+	QueryCondition: 清算 证券 北京	Resume Title Desc: null	Relevance: 0.0	Resume ID：51813455
+	QueryCondition: 清算 证券 北京	Resume Title Desc: null	Relevance: 0.0	Resume ID：84564113
+	QueryCondition: 清算 证券 北京	Resume Title Desc: null	Relevance: 0.0	Resume ID：89146507
+	QueryCondition: 清算 证券 北京	Resume Title Desc: null	Relevance: 0.0	Resume ID：47854849
+	QueryCondition: 清算 证券 北京	Resume Title Desc: null	Relevance: 0.0	Resume ID：45292118
+	QueryCondition: 清算 证券 北京	Resume Title Desc: null	Relevance: 0.0	Resume ID：18832584
+	QueryCondition: 清算 证券 北京	Resume Title Desc: null	Relevance: 0.0	Resume ID：25996885
+	QueryCondition: 清算 证券 北京	Resume Title Desc: null	Relevance: 0.0	Resume ID：30748822
+	QueryCondition: 清算 证券 北京	Resume Title Desc: null	Relevance: 0.0	Resume ID：17298877
+	QueryCondition: 清算 证券 北京	Resume Title Desc: null	Relevance: 0.0	Resume ID：11237296
+	QueryCondition: 清算 证券 北京	Resume Title Desc: null	Relevance: 0.0	Resume ID：96837405
+	QueryCondition: 清算 证券 北京	Resume Title Desc: null	Relevance: 0.0	Resume ID：92172340
+	QueryCondition: 清算 证券 北京	Resume Title Desc: null	Relevance: 0.0	Resume ID：23413656
+	QueryCondition: 清算 证券 北京	Resume Title Desc: null	Relevance: 0.0	Resume ID：15908953
+	QueryCondition: 清算 证券 北京	Resume Title Desc: null	Relevance: 0.0	Resume ID：96478729
+	QueryCondition: 清算 证券 北京	Resume Title Desc: null	Relevance: 0.0	Resume ID：4880180
+	QueryCondition: 清算 证券 北京	Resume Title Desc: null	Relevance: 0.0	Resume ID：16363312
+	QueryCondition: 清算 证券 北京	Resume Title Desc: null	Relevance: 0.0	Resume ID：19199097
+	QueryCondition: 清算 证券 北京	Resume Title Desc: null	Relevance: 0.0	Resume ID：6033125
+	QueryCondition: 清算 证券 北京	Resume Title Desc: null	Relevance: 0.0	Resume ID：49139267
+	QueryCondition: 清算 证券 北京	Resume Title Desc: null	Relevance: 0.0	Resume ID：16742859
+	QueryCondition: 清算 证券 北京	Resume Title Desc: null	Relevance: 0.0	Resume ID：55681442
+	QueryCondition: 清算 证券 北京	Resume Title Desc: null	Relevance: 0.0	Resume ID：20178334
+	QueryCondition: 清算 证券 北京	Resume Title Desc: null	Relevance: 0.0	Resume ID：33228712
+	QueryCondition: 清算 证券 北京	Resume Title Desc: null	Relevance: 0.0	Resume ID：18292216
+NotMatchRate: 01.0000	QueryCondition: 长沙 弱电	Resume Title Desc: null	Relevance: 0.0	Resume ID：96818616
+	QueryCondition: 长沙 弱电	Resume Title Desc: null	Relevance: 0.0	Resume ID：27677270
+	QueryCondition: 长沙 弱电	Resume Title Desc: null	Relevance: 0.0	Resume ID：93072078
+	QueryCondition: 长沙 弱电	Resume Title Desc: null	Relevance: 0.0	Resume ID：93327258
+	QueryCondition: 长沙 弱电	Resume Title Desc: null	Relevance: 0.0	Resume ID：96466561
+	QueryCondition: 长沙 弱电	Resume Title Desc: null	Relevance: 0.0	Resume ID：92450172
+	QueryCondition: 长沙 弱电	Resume Title Desc: null	Relevance: 0.0	Resume ID：36539406
+	QueryCondition: 长沙 弱电	Resume Title Desc: null	Relevance: 0.0	Resume ID：91064890
+	QueryCondition: 长沙 弱电	Resume Title Desc: null	Relevance: 0.0	Resume ID：96708929
+	QueryCondition: 长沙 弱电	Resume Title Desc: null	Relevance: 0.0	Resume ID：57307238
+	QueryCondition: 长沙 弱电	Resume Title Desc: null	Relevance: 0.0	Resume ID：7072052
+	QueryCondition: 长沙 弱电	Resume Title Desc: null	Relevance: 0.0	Resume ID：45599224
+	QueryCondition: 长沙 弱电	Resume Title Desc: null	Relevance: 0.0	Resume ID：41613399
+	QueryCondition: 长沙 弱电	Resume Title Desc: null	Relevance: 0.0	Resume ID：90336058
+	QueryCondition: 长沙 弱电	Resume Title Desc: null	Relevance: 0.0	Resume ID：96831186
+	QueryCondition: 长沙 弱电	Resume Title Desc: null	Relevance: 0.0	Resume ID：89510251
+	QueryCondition: 长沙 弱电	Resume Title Desc: null	Relevance: 0.0	Resume ID：37623524
+	QueryCondition: 长沙 弱电	Resume Title Desc: null	Relevance: 0.0	Resume ID：84934244
+	QueryCondition: 长沙 弱电	Resume Title Desc: null	Relevance: 0.0	Resume ID：96831705
+	QueryCondition: 长沙 弱电	Resume Title Desc: null	Relevance: 0.0	Resume ID：58875176
+	QueryCondition: 长沙 弱电	Resume Title Desc: null	Relevance: 0.0	Resume ID：39458042
+	QueryCondition: 长沙 弱电	Resume Title Desc: null	Relevance: 0.0	Resume ID：8531819
+	QueryCondition: 长沙 弱电	Resume Title Desc: null	Relevance: 0.0	Resume ID：94990366
+	QueryCondition: 长沙 弱电	Resume Title Desc: null	Relevance: 0.0	Resume ID：61865640
+	QueryCondition: 长沙 弱电	Resume Title Desc: null	Relevance: 0.0	Resume ID：84819159
+	QueryCondition: 长沙 弱电	Resume Title Desc: null	Relevance: 0.0	Resume ID：58415741
+	QueryCondition: 长沙 弱电	Resume Title Desc: null	Relevance: 0.0	Resume ID：83176844
+	QueryCondition: 长沙 弱电	Resume Title Desc: null	Relevance: 0.0	Resume ID：87913928
+	QueryCondition: 长沙 弱电	Resume Title Desc: null	Relevance: 0.0	Resume ID：94385018
+	QueryCondition: 长沙 弱电	Resume Title Desc: null	Relevance: 0.0	Resume ID：19978561
